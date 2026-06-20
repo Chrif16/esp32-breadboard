@@ -13,3 +13,5 @@ i left spots to directly insert metal inserts so that the pins are connected but
 # How to build :
 For screws and similar items, it is recommended to find the cheapest in your location. first 3d print the breadboard lid and shell in the CAD folder then manually put the metal inserts in place then screw the lid shut and voila.
 # zine
+
+<img width="3508" height="4960" alt="zine 5" src="https://github.com/user-attachments/assets/87604e05-3ccf-43e6-b28c-0be1e00214f5" />
